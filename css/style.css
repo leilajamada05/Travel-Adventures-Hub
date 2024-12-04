@@ -1,0 +1,36 @@
+body,html{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box ;
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: rgb(127, 218, 127);
+}
+.logo{
+    font-size: large;
+    font-weight: bolder;
+    margin-right: 650px;
+
+}
+.nav{
+    display: flex;
+    justify-content:space-between;
+    color: white;
+    background-color: #4CAF50;
+    height:90px ;
+    align-items: center;
+    padding: 20px;
+    
+   
+}
+.auth{
+   display: flex;
+   margin-right: 5px; 
+   color: #4CAF50 ;
+   font-weight: bolder;
+   text-decoration: none;
+   border-radius: 50px;
+   margin: 20px 20px 20px 20px;
+   border-style: dotted; 
+   background-color: white;
+   border-width: 5px;
+}
