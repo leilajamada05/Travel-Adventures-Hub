@@ -1,0 +1,10 @@
+.text-center{
+    color:#15803d ;
+}
+.btn{
+    background-color:#15803d ; 
+}
+.btn:hover{
+    background-color: lightgreen;
+}
+
