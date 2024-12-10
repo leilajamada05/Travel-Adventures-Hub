@@ -1,4 +1,4 @@
-.text-center{
+text-center{
     color:#15803d ;
 }
 .btn{
@@ -6,8 +6,4 @@
 }
 .btn:hover{
     background-color: lightgreen;
-}
-.SignUp{
-    background-color: #15803d ;
-    width: 400px;
 }

@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;   /* ensures that the page has at least 
+    as much vertical space as the viewport heigh*/
+  }
+  
+.container-fluid {
+    height: 100%; /*makes it fill the remaining space after
+     accounting for the header and other elements*/
+    background-color:#15803d;
+    color: white;
+  }
+.navbar{
+    height: 100px;
+}
