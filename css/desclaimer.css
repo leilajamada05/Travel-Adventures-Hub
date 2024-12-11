@@ -9,6 +9,9 @@ body {
     background-color:#15803d;
     color: white;
   }
+.container{
+    padding-bottom: 50px;
+}
 .navbar{
     height: 100px;
 }
